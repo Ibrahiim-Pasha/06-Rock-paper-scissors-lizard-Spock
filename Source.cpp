@@ -1,9 +1,9 @@
 /*
-    +-----------------------------------------+
+        +-----------------------------------------+
 	| 06-Rock,Paper,Scissors,Lizard,Spock     |
 	| - Author : Ibrahim Mohamed Abdul-Meged. |
-	|		   : facebook.com/Ibrahiim.Pasha  |
-	|		   : github.com/Ibrahiim-Pasha    |
+	|          : facebook.com/Ibrahiim.Pasha  |
+	|          : github.com/Ibrahiim-Pasha    |
 	| - Date : 01/10/2016 - 09:59 AM          |
 	+-----------------------------------------+
 */
